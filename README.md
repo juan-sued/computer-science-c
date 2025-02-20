@@ -1,5 +1,5 @@
 # computer-science-c
-Este repositório serve para guardar os projetos e trabalhos realizados em aulas de Ciência da Computação.
+Este repositório serve para guardar os projetos e trabalhos realizados em aulas de Ciência da Computação utilizando linguagem C.
 
 ## Projetos
 
